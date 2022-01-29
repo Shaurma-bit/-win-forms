@@ -1,0 +1,11 @@
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\bin\Debug\Проект школаКОДА.exe.config
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\bin\Debug\Проект школаКОДА.exe
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\bin\Debug\Проект школаКОДА.pdb
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\obj\Debug\Проект школаКОДА.csproj.AssemblyReference.cache
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\obj\Debug\Проект_школаКОДА.Properties.Resources.resources
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\obj\Debug\Проект школаКОДА.csproj.GenerateResource.cache
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\obj\Debug\Проект школаКОДА.csproj.CoreCompileInputs.cache
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\obj\Debug\Проект школаКОДА.exe
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\obj\Debug\Проект школаКОДА.pdb
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\obj\Debug\Проект_школаКОДА.Form1.resources
+C:\Users\a9185\source\repos\Проект школаКОДА\Проект школаКОДА\obj\Debug\Проект_школаКОДА.Form2.resources
